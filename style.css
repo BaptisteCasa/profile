@@ -1,0 +1,63 @@
+body {
+  font-family: "Tulpen One", serif;
+  font-weight: 400;
+  font-size: 30px;
+  text-align: center;
+}
+
+h1, h2 {
+  color: #201b4d;
+}
+
+section {
+  background-color: rgb(245, 245, 245);
+  width: 35%;
+  margin: 50px auto;
+  padding: 1em;
+}
+
+a {
+  background-color: #e01b01;
+  color: #F1E3D3;
+  padding: 8px;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+p {
+  color: grey;
+}
+
+img {
+  width: 150px;
+  border-radius: 50%;
+}
+
+.btn-black {
+  background-color: black;
+}
+
+
+/*  FOOTER */
+footer {
+  background-color: #065a3e;
+  padding: 1em;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  display: inline;
+}
+.card {
+  background: white;
+  padding: 30px;
+  border: 1px solid lightgrey;
+}
+.container {
+  width: 500px;
+  margin: 0 auto;
+  padding-bottom: 15px;
+}
