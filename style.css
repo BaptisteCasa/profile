@@ -12,7 +12,7 @@ h1, h2 {
 section {
   background-color: rgb(245, 245, 245);
   width: 50%;
-  margin: 30px auto;
+  margin: 50px auto;
   padding: 1em;
 }
 
@@ -57,7 +57,7 @@ li {
   border: 1px solid lightgrey;
 }
 .container {
-  width: 500px;
+  width: 800px;
   margin: 0 auto;
   padding-bottom: 15px;
 }
